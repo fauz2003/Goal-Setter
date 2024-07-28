@@ -37,14 +37,7 @@ JWT_SECRET=your-jwt-secret
 4. Start the development server:
 
 ```bash
-npm run server
-```
-
-5. Run the frontend in a seperate terminal:
-
-```bash
-cd frontend
-npm run client
+npm run dev
 ```
 
 ## Usage
@@ -52,4 +45,5 @@ npm run client
 1. Open your web browser and navigate to `http://localhost:3000`.
 2. Sign up for a new account or log in with your existing credentials.
 3. Add, view, and delete your goals.
+
 
