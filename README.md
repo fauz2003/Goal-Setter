@@ -37,7 +37,14 @@ JWT_SECRET=your-jwt-secret
 4. Start the development server:
 
 ```bash
-npm run dev
+npm run server
+```
+
+5. Run the frontend in a seperate terminal:
+
+```bash
+cd frontend
+npm run client
 ```
 
 ## Usage
